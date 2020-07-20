@@ -70,6 +70,9 @@ Para add todas as alterações na lista de commit
 
         git commit -m "Comentário!" - feito pelo vc code
 
+
+
+ssda
         ou
 
         confirma via VS code
